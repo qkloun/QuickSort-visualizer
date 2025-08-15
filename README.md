@@ -2,7 +2,7 @@
 This project is a part of multiple similar projects that visualize the process of how algorithms sort data, this one would be showing how quicksort would organize a set of data. 
 It was made with sdl2, a c++ library which let me open up a window and visualize the whole process to the screen.
 
-This project let me understand how the QuickSort algorithm organizes data in a visual representation, which let me further understand the complexities of sorting systems. This project gave me more experience in coding as I hadn't done anything similar to this before, so I would like to believe that this project would let other students process sorting algorithms more.
+This project visualizes the QuickSort algorithm in real time, showing how data is recursively partitioned and sorted. Built in C++ with the SDL2 library, it provides a step-by-step graphical demonstration aimed at making sorting algorithms easier to understand for students and developers.
 
 
 ### Watch the inspiration video!
