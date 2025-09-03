@@ -1,15 +1,29 @@
 # Welcome
-This project is a part of multiple similar projects that visualize the process of how algorithms sort data, this one would be showing how quicksort would organize a set of data. 
-It was made with sdl2, a c++ library which let me open up a window and visualize the whole process to the screen.
+An interactive real-time visualization of the QuickSort algorithm built with C++ and SDL2. Watch as data gets recursively partitioned and sorted with smooth animations and color-coded elements to understand one of the most efficient sorting algorithms.
 
-This project visualizes the QuickSort algorithm in real time, showing how data is recursively partitioned and sorted. Built in C++ with the SDL2 library, it provides a step-by-step graphical demonstration aimed at making sorting algorithms easier to understand for students and developers.
+## Features
+<ul>
+  <li>Real-time QuickSort visualization with smooth animation</li>
+  <li>Color-coded elements to distinguish pivot, partitions, and sorted sections</li>
+  <li>Adjustable animation speed for detailed analysis or quick overview</li>
+  <li>Multiple data set sizes to observe algorithm behavior at different scales</li>
+  <li>Step-by-step breakdown showing pivot selection and partitioning process</li>
+  <li>Performance metrics display including comparisons and swaps counter</li>
+  <li>Interactive controls for pause, reset, and speed adjustment</li>
+</ul>
 
+## Prerequisites
+<ul>
+  <li>C++ compiler</li>
+  <li>SDL2 development libraries</li>
+  <li>CMake</li>
+</ul>
 
-### Watch the inspiration video!
+## Watch the inspiration video!
+
 <a href="https://www.youtube.com/watch?v=kPRA0W1kECg" target="_blank">
-  <img src="https://img.youtube.com/vi/kPRA0W1kECg/maxresdefault.jpg" width="400"/></a>
-
-
+  <img src="https://img.youtube.com/vi/kPRA0W1kECg/maxresdefault.jpg" width="500" alt="YouTube Tutorial - Algorithm Visualizer"/>
+</a>
 
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md)
