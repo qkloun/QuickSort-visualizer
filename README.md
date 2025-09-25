@@ -2,22 +2,22 @@
 An interactive real-time visualization of the QuickSort algorithm built with C++ and SDL2. Watch as data gets recursively partitioned and sorted with smooth animations and color-coded elements to understand one of the most efficient sorting algorithms.
 
 ## Features
-<ul>
-  <li>Real-time QuickSort visualization with smooth animation</li>
-  <li>Color-coded elements to distinguish pivot, partitions, and sorted sections</li>
-  <li>Adjustable animation speed for detailed analysis or quick overview</li>
-  <li>Multiple data set sizes to observe algorithm behavior at different scales</li>
-  <li>Step-by-step breakdown showing pivot selection and partitioning process</li>
-  <li>Performance metrics display including comparisons and swaps counter</li>
-  <li>Interactive controls for pause, reset, and speed adjustment</li>
-</ul>
+
+- Real-time QuickSort visualization with smooth animation</li>
+- Color-coded elements to distinguish pivot, partitions, and sorted sections</li>
+- Adjustable animation speed for detailed analysis or quick overview</li>
+- Multiple data set sizes to observe algorithm behavior at different scales</li>
+- Step-by-step breakdown showing pivot selection and partitioning process</li>
+- Performance metrics display including comparisons and swaps counter</li>
+- Interactive controls for pause, reset, and speed adjustment</li>
+
 
 ## Prerequisites
-<ul>
-  <li>C++ compiler</li>
-  <li>SDL2 development libraries</li>
-  <li>CMake</li>
-</ul>
+
+- C++ compiler</li>
+- SDL2 development libraries</li>
+- CMake</li>
+
 
 ## Watch the inspiration video!
 
