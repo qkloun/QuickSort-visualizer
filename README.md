@@ -3,14 +3,17 @@ An interactive real-time visualization of the QuickSort algorithm built with C++
 
 ## Features
 
-- Real-time QuickSort visualization with smooth animation</li>
-- Color-coded elements to distinguish pivot, partitions, and sorted sections</li>
-- Adjustable animation speed for detailed analysis or quick overview</li>
-- Multiple data set sizes to observe algorithm behavior at different scales</li>
-- Step-by-step breakdown showing pivot selection and partitioning process</li>
-- Performance metrics display including comparisons and swaps counter</li>
-- Interactive controls for pause, reset, and speed adjustment</li>
+- 🚀Real-time QuickSort visualization with smooth animation</li>
+- 🌈Color-coded elements to distinguish pivot, partitions, and sorted sections</li>
+- 🎬Adjustable animation speed for detailed analysis or quick overview</li>
+- 📊Multiple data set sizes to observe algorithm behavior at different scales</li>
+- 🔎Step-by-step breakdown showing pivot selection and partitioning process</li>
+- 🔗Performance metrics display including comparisons and swaps counter</li>
+- ⚡Interactive controls for pause, reset, and speed adjustment</li>
 
+## Algotithm Breakdown
+
+To be updated...
 
 ## Prerequisites
 
