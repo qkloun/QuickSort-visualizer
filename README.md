@@ -29,6 +29,13 @@ The visualization demonstrates the key phases of QuickSort:
 - Average Case **O(n log n)**
 - Worst Case **O(n²)**
 
+## Learning Outcomes
+This visualizer helps you understand:
+- How pivot selection affects partitioning efficiency
+- The recursive nature of QuickSort's divide-and-conquer approach
+- Why QuickSort is typically faster than other O(n log n) algorithms in practice
+- The impact of different input patterns on algorithm performance
+- The relationship between comparisons, swaps, and overall efficiency
 
 ## Prerequisites
 
@@ -36,6 +43,13 @@ The visualization demonstrates the key phases of QuickSort:
 - **SDL2 development libraries**
 - **CMake** (optional, for building)
 
+## Contributing
+
+Contributions are welcome! Feel free to:
+- Report bugs or suggest features via issues
+- Submit pull requests to improve the visualization
+- Add new pivot selection strategies (median-of-three, random, etc.)
+- Enhance the UI or add new features
 
 ## Watch the inspiration video!
 
